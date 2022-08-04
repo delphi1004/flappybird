@@ -1,3 +1,3 @@
 # flappybird
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dnRb13tdGow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![flappybird](http://img.youtube.com/vi/dnRb13tdGow/0.jpg)](https://www.youtube.com/watch?v=dnRb13tdGow)
